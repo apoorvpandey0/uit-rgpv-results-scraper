@@ -1,0 +1,652 @@
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+        <title> University Institute of Technology, RGPV </title>
+        <link rel="shortcut icon" type="image/jpg" href="../imagesN/rgpv-logo.jpg">
+        <!-- =============== Css Edition =============== -->
+        <link rel="preload" href="../cssN/style1.css" as="style">
+		<link rel="stylesheet" type="text/css" href="../cssN/style1.css" onload="this.onload=null; this.rel='stylesheet';">
+		<link rel="alternate stylesheet" type="text/css" href="../cssN/style_black_theme.css" title="style_black_theme">
+		<link rel="stylesheet" type="text/css" href="../cssN/fancybox.css">
+        <title>
+	B.Tech Result
+</title></head>
+	 
+    <body>
+    <form name="aspnetForm" method="post" action="rsltbtech.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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ZAIbDw8WAh8AZWRkAh0PDxYCHwAFCjAzLzAyLzIwMjNkZAIfDw8WAh8ABQowOC8wMi8yMDIzZGQCIQ8PFgQfAAUPUHJpbnQgTWFya3NoZWV0HwRnFgIeB09uQ2xpY2sFP0NsaWNraGVyZXRvcHJpbnQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfcG5sRGV0YWlsc0dyYWRpbmcnKWQCEg8PZA8QFgNmAgECAhYDFgIfCgUCMjQWAh8KBQE3FgIfCgUMMDEwMUlUMTkxMDIyFgMCBWZmZGQCFA8PZA8QFgJmAgEWAhYCHwoFATcWAh8KBQwwMTAxSVQxOTEwMjIWAmZmZGQYAwUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJWN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkaW1nQnRuX0JhY2sFI2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkZ3ZHcmFkaW5nDzwrAAoBCAIBZAUgY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMSRjY0pvaW4PBSQ4NTJkYzRhZi1mNTczLTQwNTQtYjAwZS1jYjE3ZjA4MGY5OWVknknTP4aDdcU2G7PuNX77xBVsmpQ=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=A6kY8RM_4oAXNT642gBDsL0qBnfZ2rXu1SSZqcon-qj_3F49krol861rTjdD1_K23RLKdD3S_3kTYQJ-bS4D82L8tOI1&amp;t=637812153300000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=3Gnp-0tSWEbsscIHyw7HeqJsVczPIOxQTwBGxz-VfcD75BnqaOLfs9MKdf6waRl9z8tK7a9_-EHnnY2Ml32oXpsKHbXa2DnQ5bxI7v8RrKGZCqlZyYKoexTSf9ncf-W3e_ScWef0VSkqReWaka8gsKT8ovo1&amp;t=637812153300000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=9gRuT1TcW7RZI7u1a9W-AG930kSs-cuHK1RrLaeXhPgPUgVUBJq4fAZaM__6NXOIODOxQQpNKm9BPqMpffV7tAm_FG86mCGSal5qjXPQW7lSs0c7Vx6t0YSxieXhbSuMslslWheCRT0tiTkLFvXEHWgNRpE1&amp;t=637517691209144408" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-_4u2KpG1E4dBSZIzBx4oEy5-h4cjsoPu5nawftRSLWo0PTDD9JYdZW1PiG5KRbmresehOF3SZ6hdrck2JDP2NcGnJhRwifpgQBAaxW6BRQXRQKL4Mu2dSfFKEJaKar0rbp2JMxB8Xvq0VbYIImE4ZDZiWwQPDvE3SZvn7TCBxNQKPLF0&amp;t=637517691209144408" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uplO1KL3bsUlDZREzuqI_7vKwePONI_NTFEjmYgFUotKP1XDscefUR6qG7DhGyizPZUlgzagZePktEviH3VxFHYCbngD41idWfuYr1oDcfMxzlHjIGeWebczP7pD12xzK12RwJyEbEUGXgDAeBOKBwqh_dQ1&amp;t=635125238852283907" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Vc_b_00_h6hx4d_j3ujXkSB82Vt9tWTk1fUIdr8qa7i_SdnI1jVVyGjj1cX1xo6PdzhIrDDn4wCIhrsG1GddNWbxD43z0LAv0Jt7FoSfzoTZCvgzCjA0y3Rw6loY1E4T_SjGZVWNz85sJWYf6NdTjiM4TKo1&amp;t=635125238852283907" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6bLpTDZJAx7inLQh-0rIuOFSocuj9FVS0NVr4CnFWuSSpxyS1a7Q2drsCwf_tI2uP_pm0fA20K0qy6QBI3ZHcyaUrKCivDwiAuqKkoch1mglFH0huua2cuk3SOkTYZfNV_WNofVCBwpFNFv1perQIXcMtAvKXwQu5mS36Ay8qwE4aIiI0&amp;t=635125238852283907" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="23C6FF04">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQKtsZHrBgKljJCUBQLqnMK6DALhhas6AuCFqzoC44WrOgLihas6AuWFqzoC5IWrOgLnhas6AvaFqzoCvOzywAYCroz8tA4rHkGb/ryd2mVnLKhfat31hzjG/A==">
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+      <header id="Home_One">
+            <div class="top_header">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12">
+						<div class="selection_elements left_align">
+                                <div class="select_list_control">
+                                    <ul class="select_list">
+                                         <li class="hide_on_small">
+                                            <a href="https://www.facebook.com/UIT-RGPV-Bhopal-104112831568208" class="top_fb" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom" title="" data-bs-original-title="Facebook"><i class="fab fa-facebook-square"> </i> </a>
+                                          
+											<a href="https://www.youtube.com/channel/UC-LhhqpfCuzibu15p2mOmwQ" class="top_linkdin" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom" title="" data-bs-original-title="Youtube">
+                                                <i class="fab fa-youtube"> </i>
+                                            </a>
+                                        </li>
+										
+                                     </ul>
+                                </div>
+                            </div>
+                         </div>
+                        <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
+                            <div class="selection_elements">
+                                <div class="select_list_control">
+                                    <ul class="select_list">
+                                         <li>
+                                            <a href="javascript:void(0);" class="black_theme">Screen Reader </a>
+                                        </li>
+                                        <li>
+										<a roll="button" href="javascript:void(0);" onclick="switch_style('style');return false;" name="theme" value="s style" class="whtie_theme" title="standard Contrast" id="white_theme_style">A </a>
+                                            <a roll="button" href="javascript:void(0);" onclick="switch_style('style_black_theme');return false;" name="theme" value="b style" class="black_theme" title="high Contrast" id="black_theme_style">A </a>
+                                        </li>
+                                        <li>
+										<a class="jfontsize-button" id="jfontsize-m" title="Font Reduce" style="cursor: pointer;"> <span class="small"> A-</span> </a>
+                                            <a class="jfontsize-button" id="jfontsize-d" title="Font Default" style="cursor: pointer;">A </a>
+                                            <a class="jfontsize-button" id="jfontsize-p" title="Font Increase" style="cursor: pointer;"><span class="big">A+ </span></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="middle_header">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="logo_inline">
+                                <div class="logo_box">
+                                    <a href="../index.aspx">
+                                        <img src="../imagesN/rgpv-logo.jpg" class="img-fluid" alt="">
+                                    </a>
+                                </div>
+                                <div class="logo_text">
+                                    <a href="../index.aspx">
+                                        <h2>University Institute of Technology, RGPV</h2>
+                                        <h4>A Constituent College of the NAAC "A" grade RGPV Technological University</h4>
+                                        <h4>Narsingharh By Pass Road Near Gandhi Nagar, Bhopal (M.P) </h4>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <!--<div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12">
+                            <div class="search_menu">
+                                <a href="#" class="download_app" data-bs-toggle="tooltip" data-bs-placement="top" title="Download Our App">
+                                    <span><img src="images/google-play2.png" class="img-fluid" alt="" /> Download App </span>
+                                </a>
+                                <a href="#" class="search_open"><i class="fa fa-search"> </i> Search </a> 
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+            <div class="menu_control">
+                <div class="stellarnav dark right mobile"><a href="#" class="menu-toggle"><span class="bars"><span></span><span></span><span></span></span> Menu</a>
+                    <ul><a href="#" class="close-menu full"><span class="icon-close"></span>Close</a>
+                        <li><a href="../index.aspx">Home</a></li>
+                        <li class="drop-right has-sub">
+                            <a href="#Home_About">About Us</a>
+                            <ul>
+                                <li><a href="../theinstitute/aboutus.aspx">About UIT</a></li>
+                                <li><a href="../theinstitute/frm_visionmission.aspx">Vision &amp; Mission</a></li>
+                               
+                                <li><a href="../theinstitute/vcmsg.aspx">VC Message</a></li>
+                               
+                                <li><a href="../theinstitute/directormsg.aspx">Director(s) Message</a></li>
+                                <li><a href="../theinstitute/campusinfo.aspx">Campus Information</a></li>
+                                <li><a href="../theinstitute/about_ncc.aspx">NCC</a></li>
+                                <li><a href="../theinstitute/location.aspx">Location</a></li>
+                                <li><a href="../theinstitute/contactus.aspx">Contact Us</a></li>
+                                
+                             
+
+                            </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                        <li class="drop-right has-sub">
+                            <a href="javascript:void(0);">Departments</a>
+                            <ul>
+                                <li><a href="../institutions/institutionslogin.aspx">Institution Login</a></li>
+                                <li><a href="../departments/department.aspx">Departmental Profile</a></li>
+                                 
+                            </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                        <li class="drop-right has-sub">
+                            <a href="../departments/department.aspx">Admission</a>
+                            <ul>
+                                <li><a href="../theinstitute/admissionpolicy.aspx">Policy</a></li>
+                                <li><a href="../theinstitute/admissionpolicy.aspx">Doctoral Admission</a></li>
+                                <li><a href="../theinstitute/admissionpolicy.aspx">PG Admission</a></li>
+                                <li><a href="../theinstitute/admissionpolicy.aspx">UG Admission</a></li>
+                             </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                        <li class="drop-right has-sub">
+                            <a href="javascript:void(0);">Academics</a>
+                            <ul>
+                                <li><a href="../academics/academiccalander.aspx">Academic Calender</a></li>
+                                <li><a href="../theinstitute/feestructure.aspx">Fee Structure</a></li>
+								<li><a href="../uploadcontent/viewscheme.aspx">Scheme/Syllabus</a></li>
+								<li><a href="../uploadcontent/viewordinance.aspx">Ordinance</a></li>
+                                <li><a href="../theinstitute/po.aspx">POs</a></li>
+                              </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                        <li class="drop-right has-sub">
+                            <a href="javascript:void(0);">Examination</a>
+                            <ul>
+                                <li><a href="../exam/programselect.aspx">Results</a></li>
+                                <li><a href="../uploadcontent/viewtt.aspx">Time Table</a></li>
+                             </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                        
+                        <li class="drop-right has-sub">
+                            <a href="javascript:void(0);">Student Life</a>
+                            <ul>
+                                <li><a href="../studentlife/studentregistration.aspx">Registration</a></li>
+                                <li><a href="../exam/programselect.aspx">Results</a></li>
+                                <li><a href="../StudentLife/StudentLogin.aspx">Login</a></li>
+                             
+                                <li><a href="../uploadcontent/viewscheme.aspx">Scheme/Syllabus</a></li>
+                                <li><a href="../uploadcontent/viewtt.aspx">Time Table</a></li>
+                                <li><a href="../theinstitute/downloadforms.aspx">Download Forms</a></li>
+                                <li><a href="../studentlife/antiragging.aspx">Anti Ragging</a></li>
+                                <li><a href="../helpdesk/forgotpassword.aspx">Forgot Password	</a></li>
+                            </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                       <li><a href="../aboutdepartment/view_faculty_profile.aspx">Faculty</a></li>
+					   <li class="drop-left has-sub">
+                            <a href="javascript:void(0);">Placement</a>
+                            <ul>
+                                <li><a href="../theinstitute/aboutplacement.aspx">About Placements </a></li>
+                                <li><a href="../theinstitute/majorrecruiters.aspx">Major Recruiters</a></li>
+                                <li><a href="../theinstitute/mentorteamlist.aspx">Mentor Team List</a></li>
+                               <li><a href="https://www.uitrgpv.ac.in/pdf/tnppolicy.pdf" target="_blank">Placement Policy</a></li>
+                                <li><a href="../theinstitute/selectiondetails.aspx">Selection Details</a></li>
+                        
+                                <li><a href="../theinstitute/placementrecords.aspx">Placements Year Wise</a></li>
+                                <li><a href="../theinstitute/frm_testimonial.aspx">Testimonial</a></li>
+                            </ul>
+                        <a class="dd-toggle" href="#"><span class="icon-plus"></span></a></li>
+                        <li><a href="../theinstitute/contactus.aspx">Contact us</a></li>
+                    </ul>
+                </div>
+                <!-- .stellarnav -->
+            </div>
+        </header>
+		
+		   
+<script language="javascript" type="text/javascript" src="../jscripts/Print.js"></script>
+<section class="page_banner" style="background:url(../imagesN/banner_slide9.jpg);">
+            <div class="banner_shadow">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="breadcum">
+                                <div class="title_squeare">
+                                    <div class="control_div">
+                                        <h1>B.Tech. Result </h1>
+                                        <div class="page_nav">
+                                            <a href="https://www.uitrgpv.ac.in/index.aspx">Home</a> <span><i class="fa fa-angle-right"></i> Resuls <i class="fa fa-angle-right"></i> <a href="#">B.Tech. Result</a></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</section>
+<section class="result_section common_section">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-end">
+<input type="image" name="ctl00$ContentPlaceHolder1$imgBtn_Back" id="ctl00_ContentPlaceHolder1_imgBtn_Back" src="../Images/Back.gif" style="border-width:0px;">
+</div>
+<div class="col-xxl-3 col-xl-3 col-lg-4 col-md-6 col-sm-12 col-12">
+<div class="mb-3">
+<label for="Enrollment" class="form-label">Enter Your Enrollment No.</label>
+<span id="ctl00_ContentPlaceHolder1_rfvRoll" style="color:Red;display:none;">*</span> 
+                                    <input name="ctl00$ContentPlaceHolder1$txtrollno" type="text" value="0101IT191022" maxlength="12" id="ctl00_ContentPlaceHolder1_txtrollno" disabled="disabled" class="form-control">
+ </div>
+ </div>
+ <div class="col-xxl-2 col-xl-2 col-lg-3 col-md-6 col-sm-12 col-12">
+<div class="mb-3">
+<div><label for="Semester" class="form-label">Semester</label></div>
+                                    <select name="ctl00$ContentPlaceHolder1$drpSemester" id="ctl00_ContentPlaceHolder1_drpSemester" class="Outerdropdown nice-select wide" style="display: none;">
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option selected="selected" value="7">7</option>
+	<option value="8">8</option>
+
+</select><div class="nice-select Outerdropdown wide" tabindex="0"><span class="current">7</span><ul class="list"><li data-value="1" class="option">1</li><li data-value="2" class="option">2</li><li data-value="3" class="option">3</li><li data-value="4" class="option">4</li><li data-value="5" class="option">5</li><li data-value="6" class="option">6</li><li data-value="7" class="option selected">7</li><li data-value="8" class="option">8</li></ul></div>
+</div>
+                                    &nbsp;
+                               </div>
+                               </div>
+                                <div class="row justify-content-center">
+<div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6 col-sm-12 col-12">
+ 
+					</div>
+<div class="col-xxl-12 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 text-center">
+                    <input type="submit" name="ctl00$ContentPlaceHolder1$btnReset" value="Reset" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$btnReset&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_ContentPlaceHolder1_btnReset" class="btn btn-info btn-sm" style="font-weight:normal;text-decoration:none;">
+                
+               
+			   </div>
+			    </div>
+			   <div class="row justify-content-center">
+			   <div class="col-xxl-8 col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12">
+			   <br>
+                    <div id="ctl00_ContentPlaceHolder1_pnlDetailsGrading" style="background-color:#FAFAFA;width:100%;">
+	
+					
+					<div class="table-responsive">
+                        <table class="imagetableGV table table-bordered table-striped" cellspacing="1" cellpadding="1" align="center">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <img id="ctl00_ContentPlaceHolder1_Image3" src="../Images/inner_header.gif" style="width:100%;border-width:0px;"></td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <table cellspacing="0" cellpadding="0" class="table table-bordered">
+                                            <tbody>
+                                                <tr>
+                                                    <th colspan="2" style="width: 100%">                                                        
+                                                         <div align="center" style="text-align: center">    Statement of Marks -
+                                                            <span id="ctl00_ContentPlaceHolder1_lblStreamGrading">B.Tech                                            </span></div>
+                                                    </th>
+                                                </tr>
+                                                <tr>
+                                                    <td colspan="2" style="width: 100%">
+                                                        <div align="center">
+                                                            Examination-
+                                                            <span id="ctl00_ContentPlaceHolder1_lblExamSess">December 2022</span></div>
+                                                    </td>
+                                                </tr>
+                                                
+                                                <tr>
+                                                    <td colspan="2" align="center" style="width: 100%">
+                                                        <table class="table table-bordered">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td>Name</td>
+                                                                    
+                                                                    <td><span id="ctl00_ContentPlaceHolder1_lblNameGrading" style="color:Black;">DEEPAK DHAKAD                                                                                       </span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Roll No</td>
+                                                                  <td><span id="ctl00_ContentPlaceHolder1_lblRollNoGrading" style="color:Black;">0101IT191022</span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Branch</td>
+                                                                   <td><span id="ctl00_ContentPlaceHolder1_lblBranchGrading" style="color:Black;">IT        </span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Course</td>
+                                                               <td><span id="ctl00_ContentPlaceHolder1_lblProgramGrading" style="color:Black;">B.Tech                                            </span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Semester</td>
+                                                               <td><span id="ctl00_ContentPlaceHolder1_lblSemesterGrading" style="color:Black;">7</span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Status</td>
+                                                               <td><span id="ctl00_ContentPlaceHolder1_lblStatusGrading" style="color:Black;font-weight:bold;">Regular</span></td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        <br>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <span style="font-size: 11pt; color: #ff3366; font-family: Verdana"><strong></strong>
+                                        </span>
+                                        <div>
+		<table class="table table-bordered table-striped th_white text-center" cellspacing="0" rules="rows" border="1" id="ctl00_ContentPlaceHolder1_gvGrading" style="width:100%;border-collapse:collapse;">
+			<tbody><tr>
+				<th scope="col">Paper</th><th scope="col">Total Credit</th><th scope="col">Earned Credit</th><th scope="col">Grade</th>
+			</tr><tr align="center" valign="middle">
+				<td>IT702     - [T]</td><td>4.0</td><td>4.0</td><td>B+ </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT709     - [T]</td><td>4.0</td><td>4.0</td><td>C+ </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT710     - [T]</td><td>4.0</td><td>4.0</td><td>B  </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT711     - [T]</td><td>4.0</td><td>4.0</td><td>C+ </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT702     - [P]</td><td>1.0</td><td>1.0</td><td>A  </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT706     - [P]</td><td>2.0</td><td>2.0</td><td>B  </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT708     - [P]</td><td>4.0</td><td>4.0</td><td>C  </td>
+			</tr><tr align="center" valign="middle">
+				<td>IT709     - [P]</td><td>1.0</td><td>1.0</td><td>B+ </td>
+			</tr>
+		</tbody></table>
+	</div>
+                                        
+                                    </td>
+                                </tr>
+                                <!-- if starts -->
+                                <tr>
+                                    <td align="center" style="width: 100%">
+                                        <table class="imagetableGV table table-bordered table-striped" cellspacing="1" cellpadding="0" width="100%" border="0">
+                                            <tbody>
+                                                <tr class="FieldText" align="center">
+                                                    <th width="25%">
+                                                        <strong>Result Des.</strong></th>
+                                                    <th width="25%">
+                                                        <strong>SGPA</strong></th>
+                                                    <th width="25%">
+                                                        <strong>CGPA</strong></th>
+                                                </tr>
+                                                <tr align="center">
+                                                    <td>
+                                                        <span id="ctl00_ContentPlaceHolder1_lblResultNewGrading" style="font-weight:bold;">PASS                                                                                                                                                                                                    </span></td>
+                                                    <td>
+                                                        &nbsp;
+                                                        <span id="ctl00_ContentPlaceHolder1_lblSGPA" style="font-weight:bold;">6.63</span></td>
+                                                    <td class="resultText">
+                                                        <span id="ctl00_ContentPlaceHolder1_lblcgpa" style="font-weight:bold;"></span>&nbsp;
+                                                    </td>
+                                                </tr>
+                                                <tr class="FieldText" align="center">
+                                                    <th width="25%">
+                                                        Reval Date</th>
+                                                    <th width="25%">
+                                                        Reval Date with Late Fee</th>
+                                                    <th width="25%">
+                                                        &nbsp;
+                                                    </th>
+                                                </tr>
+                                                <tr class="resultText" align="center">
+                                                    <td class="resultText">
+                                                        <span id="ctl00_ContentPlaceHolder1_Label4NewGrading" style="font-weight:bold;">03/02/2023</span>&nbsp;</td>
+                                                    <td class="resultText">
+                                                        <span id="ctl00_ContentPlaceHolder1_Label5NewGrading" style="font-weight:bold;">08/02/2023</span>&nbsp;</td>
+                                                    <td class="resultText">
+                                                        &nbsp;
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center">
+                                        <span style="font-size: 8pt"><span style="font-family: Verdana"><strong>Data Source
+                                            :</strong> University Institute Of Technology ,Bhopal</span></span></td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="width: 100%">
+                                        <span style="font-size: 8pt"><span style="font-family: Verdana"><strong>Disclaimer :</strong>
+                                            The data belongs to UIT, RGPV Bhopal. For any communication related to the published
+                                            data, please contact examination cell of UIT</span></span>.</td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="width: 100%">
+                                        <a onclick="Clickheretoprint('ctl00_ContentPlaceHolder1_pnlDetailsGrading');" id="ctl00_ContentPlaceHolder1_LinkButton1Grading" class="button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentPlaceHolder1$LinkButton1Grading&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" style="font-family:Verdana;font-size:10pt;">Print Marksheet</a></td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="width: 100%">
+                                        <!--<a href="feed.aspx" target="_blank" style="text-decoration:none; color:#000000"><span style="font-size: 10pt; font-family: Verdana">
+                      <i><b>  Send Your Feedback</b></i></span></a>-->
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        </div>
+                    
+</div>
+                    
+                    
+         </div>
+         </div>
+         </div>
+         </section>
+
+
+
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="footer_col">
+                            <h4>Examination</h4>
+                            <div class="list_control">
+                                <ul class="list-item">
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../exam/programselect.aspx">Result </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../academics/academiccalander.aspx"> Academic Calender</a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../uploadcontent/viewtt.aspx">Exam Time Table </a></li>
+                                        
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../uploadcontent/viewscheme.aspx">Schemes </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../theinstitute/ncc_examination.aspx">NCC Notice &amp; Syallbus  </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <div class="footer_col">
+                            <h4>Other Links</h4>
+                            <div class="list_control">
+                                <ul class="list-item">
+                                    <i class="la la-angle-right"></i>
+                                   <li><a href="../theinstitute/PhotoGallery.aspx">Photo Gallery </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../theinstitute/bas_route_information.aspx">Bus Information </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="#">RTI </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../theinstitute/importantlinks.aspx">Important Links </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="../studentlife/antiragging.aspx">Anti Ragging </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-5">
+                        <div class="footer_col">
+                            <h4>Help &amp; Support</h4>
+                            <div class="list_control">
+                                <ul class="list-item">
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="https://www.uitrgpv.ac.in/pdf/nirf_ranking.pdf" target="_blank">NIRF Rank </a></li>
+                                    <i class="la la-angle-right"></i>
+                                    <li><a href="#">Technical Support Call - 8989205805 </a></li>
+                                   
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-7">
+                        <div class="footer_col with_bg2">
+                            <h4>Get in Touch With Us</h4>
+                            <div class="list_control">
+                                <ul class="list-item">
+                                    <i class="la la-map-marker-alt"></i>
+                                    <li>Narsingharh By pass Road, 
+Near Gandhi Nagar, Bhopal M.P</li>
+                                    <i class="la la-envelope"></i>
+                                    <li><a href="mailto:uit_director@rgtu.net"> uit_director@rgtu.net </a></li>
+                                    <i class="la la-phone-volume"></i>
+                                    <li><a href="tel:+"> +(91)-(755)-2678812</a></li>
+                                    <i class="la la-fax"></i>
+                                    <li><a href="#">  +(91)-(755)-2678819 </a></li>
+                                </ul>
+                            </div>
+                             
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copywrite_div">
+                <div class="container">
+                    <div class="row">
+                    
+						
+                        <div class="col-lg-4 col-md-4">
+                            <div class="text_left">
+                                <p>© <span id="currentYear">2023</span> <a href="#"> UIT-RGPV</a> . All Rights Reserved</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="text_center">
+                                <p><a href="#">Disclaimer </a> / <a href="#">Privacy Policy</a> / <a href="#">Sitemap </a></p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4">
+                            <div class="text_right">
+                                <p>Design and Developed by <a href="http://www.crispindia.com/" target="_blank"> CRISP</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+ <!--============== Search Modal End =================-->
+        <!-- =============== Scripts Edition =============== -->
+        <div id="gotop" style="display: none; cursor: pointer; position: fixed; align-items: center; justify-content: center; background: rgb(18, 23, 62); color: rgb(255, 255, 255); width: 35px; height: 35px; bottom: 4em; right: 1em;"><i class="la la-angle-up"></i></div>
+        <script type="text/javascript" src="../jsN/jquery-3.6.0.min.js"></script>
+        <script type="text/javascript" src="../jsN/jquery-migrate-3.3.2.min.js"></script>
+        <script type="text/javascript" src="../jsN/bootstrap.bundle.min.js"></script>
+        <script type="text/javascript" src="../jsN/jquery.appear.js"></script>
+        <script type="text/javascript" src="../jsN/stellarnav.min.js"></script>
+        <script type="text/javascript" src="../jsN/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="../jsN/jquery.nice-select.min.js"></script>
+        <script type="text/javascript" src="../jsN/swiper-bundle.min.js"></script>
+        <script type="text/javascript" src="../jsN/odometer.min.js"></script>
+        <script type="text/javascript" src="../jsN/SmoothScroll.min.js"></script>
+		<script type="text/javascript" src="../jsN/fancybox.umd.js"></script>
+        <script type="text/javascript" src="../jsN/jquery.jfontsize-1.0.js"></script>
+		<script type="text/javascript" src="../jsN/monoscript.js"></script>
+		<script src="../jsN/jquery.gotop.js"></script>
+        <script type="text/javascript" src="../jsN/scripts.js"></script>
+        
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_ContentPlaceHolder1_rfvRoll"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ContentPlaceHolder1_rfvRoll = document.all ? document.all["ctl00_ContentPlaceHolder1_rfvRoll"] : document.getElementById("ctl00_ContentPlaceHolder1_rfvRoll");
+ctl00_ContentPlaceHolder1_rfvRoll.controltovalidate = "ctl00_ContentPlaceHolder1_txtrollno";
+ctl00_ContentPlaceHolder1_rfvRoll.focusOnError = "t";
+ctl00_ContentPlaceHolder1_rfvRoll.errormessage = "Required";
+ctl00_ContentPlaceHolder1_rfvRoll.display = "Dynamic";
+ctl00_ContentPlaceHolder1_rfvRoll.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ContentPlaceHolder1_rfvRoll.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.initialize();
+
+document.getElementById('ctl00_ContentPlaceHolder1_rfvRoll').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_rfvRoll'));
+}
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {"FilterType":15,"id":"ctl00_ContentPlaceHolder1_FTBRollno"}, null, null, $get("ctl00_ContentPlaceHolder1_txtrollno"));
+});
+//]]>
+</script>
+</form> 
+       
+
+</body></html>
